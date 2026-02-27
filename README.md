@@ -1,15 +1,5 @@
 # Hi there, I'm Smeet Patil! 👋
 
-## 🚀 About Me
-
-I'm a passionate developer from Mumbai, India, with a love for building innovative web applications and exploring cutting-edge technologies like Augmented Reality. I enjoy creating practical solutions that bridge the gap between technology and real-world problems.
-
-- 🌍 Based in Mumbai, Maharashtra, India
-- 💻 Full-stack developer with expertise in web technologies
-- 🔍 Currently exploring AR/VR development
-- 🌱 Always learning and experimenting with new technologies
-- 💡 Love turning ideas into reality through code
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend
