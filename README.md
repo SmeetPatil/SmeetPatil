@@ -66,13 +66,6 @@
 
 </div>
 
-## 🏆 Achievements
-
-- 🌟 Built multiple full-stack web applications
-- 🚀 Explored AR/VR development with Python
-- 🤝 Active contributor to open-source projects
-- 💻 Proficient in both frontend and backend development
-
 ## 📈 What I'm Working On
 
 - 🔭 Developing innovative rental marketplace solutions
