@@ -57,10 +57,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Smeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmeetPatil&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetPatil&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmeetPatil&theme=radical&hide_border=true)
 
